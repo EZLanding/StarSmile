@@ -1705,16 +1705,11 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qunhhanx07 {
+.cid-qunyg4lgkr {
   background-image: url("../../../assets/images/3-2000x1434.png");
 }
-.cid-qunhhanx07 .mbr-text,
-.cid-qunhhanx07 .mbr-section-btn {
-  color: #ffffff;
-  text-align: right;
-}
-.cid-qunhhanx07 H1 {
-  text-align: right;
+.cid-qunyg4lgkr .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
 .cid-qun14GuAcW {
   padding-top: 30px;
@@ -2018,4 +2013,16 @@ body {
 }
 .cid-qunfmXcLaz B {
   color: #ffffff;
+}
+.cid-qunyIHOs8N {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qunyIHOs8N .mbr-text,
+.cid-qunyIHOs8N blockquote {
+  color: #767676;
+}
+.cid-qunyIHOs8N .mbr-text {
+  text-align: center;
 }
