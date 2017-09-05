@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "StarSmile",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 43,
@@ -44,7 +44,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Star Smile",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -452,11 +452,7 @@
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
               "padding-bottom": "(@paddingBottom * 15px)",
-              "position": "fixed",
-              "top": "0",
-              "left": "0",
-              "min-width": "100%",
-              "min-height": "100%"
+              "position": "fixed"
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
