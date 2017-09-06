@@ -1706,8 +1706,6 @@ body {
   }
 }
 .cid-qunyg4lgkr {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/3-2000x1434.png");
 }
 .cid-qunyg4lgkr .mbr-section-subtitle {
@@ -2015,4 +2013,16 @@ body {
 }
 .cid-qunfmXcLaz B {
   color: #ffffff;
+}
+.cid-qunyIHOs8N {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qunyIHOs8N .mbr-text,
+.cid-qunyIHOs8N blockquote {
+  color: #767676;
+}
+.cid-qunyIHOs8N .mbr-text {
+  text-align: center;
 }
