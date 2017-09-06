@@ -1,10 +1,10 @@
 {
   "settings": {
-    "name": "StarSmile",
+    "name": "StarSmile2",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 45,
-    "versionPublish": "4.2.4",
+    "versionPublish": "4.2.3",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,9 +36,11 @@
       ]
     },
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -1088,11 +1090,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Copyright (c) 2017 <a href=\"https://www.facebook.com/shanitdigital.co.il/\" target=\"_blank\">Shanit Digital</a>&nbsp;.&nbsp;<a href=\"https://www.facebook.com/eztools/\" target=\"_blank\">EZTools</a></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qunyIHOs8N",
+          "_anchor": "content1-18",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-18"
+          "_params": {}
         }
       ]
     }
